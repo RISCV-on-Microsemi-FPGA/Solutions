@@ -12,4 +12,4 @@ For more details of all the processors and toolchains supported by Firmware cata
 
 Below is the view of Firmware catalog user interface.
 
-![catalog](/images/catalog.png)
+![catalog](/Mi-V-Firmware/images/catalog.png)
